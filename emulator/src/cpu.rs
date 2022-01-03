@@ -324,7 +324,7 @@ impl Cpu {
         }
     }
 
-    pub fn reset(&mut self) {
-        *self = Self::new()
-    }
+    // pub fn reset(&mut self) {
+    //     *self = Self::new()
+    // }
 }

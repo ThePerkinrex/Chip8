@@ -1,6 +1,6 @@
 use std::time::Duration;
 
-use rodio::{source::SineWave, OutputStream, Sink, Source};
+use rodio::{OutputStream, Sink, Source};
 
 use crate::TARGET_INTERVAL;
 
